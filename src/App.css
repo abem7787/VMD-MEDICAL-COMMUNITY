@@ -1,0 +1,126 @@
+.Container {
+    height: 40px;
+    margin-top: 10px;
+}
+
+
+.Wrapper {
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    left: 0px;
+    top: 0px;
+    z-index: 100000;
+    position: fixed;
+    width: 100%;
+
+
+}
+
+.input {
+    border: 1px solid lightgray;
+    display: flex;
+    justify-content: end;
+    width: 125px;
+    height: 27px;
+    padding-left: 40px;
+    margin-right: 2px;
+    color: gray;
+
+}
+
+
+.search {
+    color: gray;
+}
+.inputBorder {
+    border: 1px solid black;
+    width: 200px;
+    height: 21px;
+    padding-left: 137px;
+    margin-top: 3px;
+    border: none;
+}
+
+.Left {
+
+    width: 30%;
+    margin-left: 40px;
+
+}
+
+
+.Lan {
+    cursor: pointer;
+
+}
+
+.Center {
+    width: 30%;
+    z-index: 5%;
+
+}
+
+.Right {
+    width: 30%;
+    justify-content: end;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    flex: 1;
+
+}
+
+
+.Register {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.Signin {
+    margin-right: 10px;
+}
+
+
+.Logo {
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+
+.Banner {
+    background-color: coral;
+    color: blanchedalmond;
+}
+
+
+.Slider {
+    display: flex;
+    width: 100vh;
+    height: 100vh;
+    background-color: aqua;
+    display: flex;
+
+}
+
+.Arrow {
+    width: 50px;
+    height: 50px;
+    background-color: antiquewhite;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+
+    top: 0;
+    bottom: 0;
+
+
+}
+
+/* Nav  */
