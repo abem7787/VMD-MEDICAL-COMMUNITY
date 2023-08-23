@@ -1,7 +1,7 @@
 # VMD MEDICAL-COMMUNITY Patron Booking App
 
   In summary, this code is use for making online doctor appointments with React.js and Mongoose Db. The credentials are organized to shipped into a Mongoose database for 
- sufficient evaluation of the facts of patience schedules therein contained.
+ sufficient evaluation of the facts of patience scheduled therein contained.
   
 https://github.com/abem7787/VMD-MEDICAL-COMMUNITY/assets/121057489/d4dd2950-8231-46d5-8fef-2313db8533b0
 
