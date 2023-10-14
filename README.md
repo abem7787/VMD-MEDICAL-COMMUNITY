@@ -18,7 +18,7 @@ https://github.com/abem7787/VMD-MEDICAL-COMMUNITY/assets/121057489/92a5ad1a-3a1c
     Components are used as static or reusable pieces of code which are ubiquitous in this repo. The primary functions in this code is used to map values/modifify data or structured the set of data. 
      - `axios.post()` AppointmentForm component is a function that contains axios.post() which takes the values (`email, name, gender, age, description, time, day`) to intialize a copy of the array into a mongoose database. The promises ensures axios call corresspond with newtwork, the characteristics of the following code will alter end user if there not able to book appointment. 
   
-  4. **Class Definitions:**
+
    
 
 
